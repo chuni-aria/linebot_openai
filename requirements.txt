@@ -1,4 +1,4 @@
 line-bot-sdk
 flask
-openai < 1.0.0
+gemini-python==1.0.0
 gunicorn
